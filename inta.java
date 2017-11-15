@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class lab1Nazara {
+public class inta {
  public static void main(String[] args) {
 	 //lab1
 	System.out.println(" ");
